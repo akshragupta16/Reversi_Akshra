@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1f079299c3e52e04280bb8d8aad5400d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - QuestionText: {instanceID: 0}
+  - QuizPanel: {fileID: 7179313496908736844, guid: 0b7f3ecfbae482347a1c7929b85075da, type: 3}
+  - GoPanel: {fileID: 116613214866583346, guid: 4452c4737e557974bb882b470db97cca, type: 3}
+  - GameEnd: {fileID: 2793670599961027282, guid: ea31ad86184505345811ea87a07889ea, type: 3}
+  - ScoreText: {instanceID: 0}
+  - Score: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
